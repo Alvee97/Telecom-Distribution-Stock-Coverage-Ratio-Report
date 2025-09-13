@@ -10,7 +10,7 @@ Together, they provide **end-to-end visibility** into:
 
 ## 📂 Files in this Repository
 
-### 1. `DH SCR Update till 30 Jun’24 (Final).xlsb`
+### 1. `DH SCR Update.xlsb`
 **Purpose:** Tracks **Stock Coverage Ratio (SCR)** for Robi & Airtel across all Distribution Houses (DHs).  
 
 **Key Features:**
@@ -29,7 +29,7 @@ Together, they provide **end-to-end visibility** into:
 
 ---
 
-### 2. `DSR Loc Mat Trnx SIM POS & SIM Delivery Update till 25th June’24.xlsb`
+### 2. `DSR Trnx SIM POS & SIM Delivery Update.xlsb`
 **Purpose:** Tracks **DSR (Distribution Sales Representatives)** performance on **SIM POS transactions, location match, and SIM delivery achievements**.  
 
 **Key Features:**
@@ -47,7 +47,7 @@ Together, they provide **end-to-end visibility** into:
 
 ---
 
-### 3. `Quality EL POS Serve Update Till 24th June’24.xlsb`
+### 3. `Quality EL POS Serve Update.xlsb`
 **Purpose:** Tracks **POS service quality** across regions, DHs, and DSRs. Focus is on **4-Time Location Match (LM) Retailers** and execution quality.  
 
 **Key Features:**
