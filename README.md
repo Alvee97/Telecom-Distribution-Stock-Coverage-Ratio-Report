@@ -1,4 +1,4 @@
-# 📊 DH SCR Update (Distribution House Stock Coverage Ratio)
+# 📊 Distribution House Stock Coverage Ratio Report
 
 This Excel workbook tracks **Stock Coverage Ratio (SCR)** for **Robi & Airtel Distribution Houses (DHs)** across regions.  
 It consolidates sales, inventory, and achievement data at both **Distribution House (DH)** and **Distribution Sales Representative (DSR)** levels.
